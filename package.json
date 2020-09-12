@@ -1,0 +1,22 @@
+{
+  "name": "thapasecondcurdchallenge",
+  "version": "1.0.0",
+  "description": "Thapa CURD challenge 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amanc1248/ThapaCURDchallenge2.git"
+  },
+  "author": "Aman Chaudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amanc1248/ThapaCURDchallenge2/issues"
+  },
+  "homepage": "https://github.com/amanc1248/ThapaCURDchallenge2#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0"
+  }
+}
